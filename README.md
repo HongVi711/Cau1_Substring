@@ -13,3 +13,7 @@ Bước 2: Run file
 - Mở file bằng Visual Studio Code.
 
 - Nhấn nút "Run" để chạy ứng dụng.
+
+---
+
+Xem kết quả ở khung output trên Visual Studio Code.
